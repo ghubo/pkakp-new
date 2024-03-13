@@ -1,0 +1,34 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import Layout from './Layout.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+
+type Props = CollectionEntry<'artikel'>['data'];
+
+const { title, penulis, pubDate, updatedDate, heroImage } = Astro.props;
+---
+<Layout title={title + ' | PKAKP PKN STAN'}>
+    <main class="px-4">
+        <article>
+            <div>
+                {heroImage && <img class="rounded-xl" width={1020} height={510} src={heroImage} alt="" />}
+            </div>
+            <div class="grid text-justify gap-4">
+                <div class="title">
+                    <div class="date">
+                        <FormattedDate date={pubDate} />
+                        {
+                            updatedDate && (
+                                <div class="last-updated-on">
+                                    Last updated on <FormattedDate date={updatedDate} />
+                                </div>
+                            )
+                        }
+                    </div>
+                    <h1 class="font-semibold text-lg">{title}</h1>
+                </div>
+                <slot />
+            </div>
+        </article>
+    </main>
+</Layout>
