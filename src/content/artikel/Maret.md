@@ -1,0 +1,32 @@
+---
+title: 'Crowdfunding: Underdog Solusi Pendanaan UMKM'
+penulis: 'Sessa Tiara Maretaniandini'
+pubDate: 'Maret 29 2024'
+---
+
+UMKM memiliki peran penting sebagai penyangga ekonomi nasional. Tahukah kamu? Indonesia berhasil melewati krisis moneter tahun 1998 dan 2008 salah satunya berkat dorongan perekonomian dari UMKM. UMKM  berperan sebagai salah satu lapangan kerja yang signifikan, kontributor besar terhadap PDB, dan berperan penting dalam mengurangi ketergantungan impor.  Berdasarkan data Kementerian Koperasi dan UKM tahun 2023, jumlah UMKM saat ini mencapai 64,2 juta dengan kontribusi terhadap PDB sebesar 60% atau senilai 8.573 triliun rupiah. Selain itu, kontribusi UMKM dalam penyerapan tenaga kerja mencapai 97% dari total tenaga kerja yang ada atau setara dengan 116 juta orang.
+
+Terlepas dari potensinya yang besar, UMKM juga dihadapkan dengan tantangan yang ada. Salah satunya adalah terbatasnya akses ke layangan keuangan. Berdasarkan data BPS, hanya 20% dari total UMKM yang berhasil memperoleh akses perbankan. Hal ini menjadi salah satu faktor mengapa UMKM rentan terhadap krisis seperti inflasi dan penurunan aktivitas ekonomi yang terjadi pada era COVID-19. Keterbatasan modal menyebabkan keberlangsungan bisnis terhambat hingga mengakibatkan kebangkrutan. Sementara itu, Bank dan layanan keuangan sulit memberikan kredit usaha karena beberapa alasan seperti minim informasi, kurang menguasai teknologi, tidak lolos audit, dan tidak memiliki jaminan aset. Untuk mengatasi masalah tersebut, crowdfunding atau urun dana bisa menjadi alternatif solusi.
+
+**Apa itu Crowdfunding?**
+
+Crowdfunding adalah teknik pengumpulan dana dari iuran sejumlah besar orang untuk mendanai suatu proyek atau bisnis. Istilah ini mengacu dari kata “crowd” berarti  keramaian dan “funding” berarti pendanaan. Dengan demikian, crowdfunding dapat diartikan sebagai pengumpulan dana yang dilakukan oleh banyak pihak. Crowdfunding disebut juga sebagai “pendanaan demokratis” karena mengusung konsep mengumpulkan sejumlah dana dari banyak pihak di dalam masyarakat luas untuk mendanai sebuah proyek. Skema ini memungkinkan pemberi dana dan penerima dana untuk memikul resiko bisnis bersama-sama.
+
+**Bagaimana Potensi Crowdfunding?**
+
+Crowdfunding pertama kali dicetuskan di Amerika serikat pada tahun 2003 yang ditandai dengan munculnya situs bernama Artistshare. Situs ini memberikan akses kepada para musisi untuk mengumpulkan dana dari penggemarnya agar bisa memproduksi karya. Semakin berkembangnya waktu, muncul situs-situs serupa yang berkecimpung di berbagai bidang seperti  industri kreatif dan bisnis. Di dunia internasional, crowdfunding menjadi semakin populer. Menurut Statista (2023), ukuran pasar crowdfunding di seluruh dunia mencapai 1,41 miliar USD atau setara dengan 21.855 triliun rupiah pada tahun 2023. Nilai ini menunjukkan kenaikan sebesar 12,8% dari tahun sebelumnya dan diproyeksikan mencapai 3,62 miliar USD pada tahun 2030 dengan pertumbuhan rata-rata gabungan sebesar 14,5%. Selain itu, platform crowdfunding terbesar di dunia, Kickstarter tercatat berhasil meluncurkan lebih dari 592.000 proyek pada Mei 2023. Meski dihadapkan dengan berbagai gejolak seperti pandemi, ketidakstabilan politik, dan kesulitan rantai pasokan,  crowdfunding global tetap mampu bertahan dengan cukup baik, dibuktikan dengan kenaikan volume pendanaan mencapai dua kali lipat dari tahun 2018 ke tahun 2022 (Jan Bednorz dalam p2pmarket data, 2023).
+
+**Implementasi Crowdfunding untuk UMKM di Indonesia**
+
+Di Indonesia, skema ini sudah berjalan cukup lama, misalnya saat pandemi menyerang. Sesama warga negara saling bahu-membahu untuk menolong korban terdampak pandemi dengan mengumpulkan dana melalui salah satu platform crowdfunding yaitu Kitabisa.com.
+Saat ini Skema crowdfunding juga hadir dalam bentuk fintech urun dana atau securities crowdfunding (SCF). SCF adalah metode pengumpulan dana dengan konsep patungan antara pemilik usaha dan investor untuk mengembangkan suatu bisnis. Metode ini akan memberikan investor kepemilikan usaha dalam bentuk saham, obligasi, atau sukuk. Dengan skema ini, pemilik usaha dan calon investor dipertemukan secara online melalui sebuah platform yang telah mengantongi izin operasional.
+Skema SCF telah diatur dan diawasi oleh OJK melalui Peraturan Otoritas Jasa Keuangan nomor 16/POJK 04/2021 Tentang Perubahan Atas Peraturan Otoritas Jasa Keuangan Nomor 57/Pojk.04/2020 Tentang Penawaran Efek Melalui Layanan Urun Dana Berbasis Teknologi Informasi. Peraturan ini memungkinkan UMKM yang tadinya tidak memenuhi syarat pendanaan equity crowdfunding, akhirnya dapat ikut  serta dalam mencari pendanaan securities crowdfunding. Peraturan ini sejalan dengan kondisi UMKM di Indonesia yang didominasi oleh usaha mikro yang mencapai 99,62% (Kemenkop Ukm, 2021).
+
+**Tantangan Implementasi SCF**
+
+Meski sudah berjalan tiga tahun, SCF masih kalah pamor dengan jenis pembiayaan lain dikalangan masyarakat luas. Terbukti dari jumlah pemodal yang terdaftar pada Agustus 2022 sebanyak 618.000 entitas, hanya  123.566 entitas yang aktif menanamkan modal. Artinya, masih banyak investor yang kurang percaya untuk menanamkan modalnya di SCF.
+Untuk mengatasi masalah tersebut, diperlukan kerjasama berbagai pihak. Misalnya, pemerintah sebagai regulator dapat menetapkan peraturan untuk melindungi investor dari risiko investasi. Selain itu, pemerintah dan penyedia platform dapat menggaet media seperti influencer atau media cetak untuk memberikan edukasi pada masyarakat luas terkait SCF. Sementara itu, platform penyedia jasa juga harus mengetatkan kualifiaksi terkait persyaratan para calon penerima dana agar dapat memfilter pelaku usaha yang benar-benar berpotensial dalam memberikan keuntungan bagi para investor.
+
+**Konklusi**
+
+UMKM memiliki memiliki peran penting dalam menyumbang perekonomian nasional. Meski memiliki potensi yang besar, UMKM juga menghadapi banyak tantangan, salah satunya adalah keterbatasan akses permodalan. SCF atau urun dana merupakan alternatif solusi untuk mengatasi masalah permodalan tersebut. Akan tetapi,  SCF dalam penerapannya masih mengalami hambatan ketidakpercayaan investor. Untuk itu, diperlukan kerjasama berbagai pihak untuk mengatasi masalah tersebut.
