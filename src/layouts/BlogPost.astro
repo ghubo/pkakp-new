@@ -1,6 +1,7 @@
 ---
 import type { CollectionEntry } from 'astro:content';
 import Layout from './Layout.astro';
+import Prose from '../components/Prose.astro'
 import FormattedDate from '../components/FormattedDate.astro';
 
 type Props = CollectionEntry<'artikel'>['data'];
@@ -27,7 +28,9 @@ const { title, penulis, pubDate, updatedDate, heroImage } = Astro.props;
                     </div>
                     <h1 class="font-semibold text-lg">{title}</h1>
                 </div>
-                <slot />
+                <Prose>
+                    <slot />
+                </Prose>
             </div>
         </article>
     </main>

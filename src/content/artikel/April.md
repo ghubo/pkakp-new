@@ -14,7 +14,7 @@ Tanpa adanya usaha dari masyarakat, akademisi, pemerintah, dan perusahaan dalam 
 
 Realitasnya, selama ini banyak akuntan **tidak mempertimbangkan biaya kerusakan lingkungan yang terjadi dalam laporan keuangannya**. Hal tersebut terbukti pada:
 
-1) Aktivitas perusahaan yang **tidak mencerminkan *sustainable production* **dengan terus berproduksi secara masif tanpa memikirkan kerusakan lingkungan yang terjadi
+1) Aktivitas perusahaan yang **tidak mencerminkan *sustainable production***dengan terus berproduksi secara masif tanpa memikirkan kerusakan lingkungan yang terjadi
 
 2) Perusahaan **tidak mempertimbangkan biaya kerusakan lingkungan** sehingga mereka menetapkan harga produk rendah, maka banyak konsumen meningkatkan konsumsinya akibat *price* yang terlalu murah;
 
