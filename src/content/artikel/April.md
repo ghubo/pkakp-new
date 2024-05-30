@@ -1,6 +1,6 @@
 ---
 title: 'Akuntansi Perubahan Iklim: Sering Diabaikan Akuntan, Padahal Fungsinya Nyata untuk Alam'
-penulis: 'Sessa Tiara Maretaniandini'
+penulis: 'Tri Yofan Agusti Rahmat D. | Adila Indah Maharani'
 pubDate: 'April 27 2024'
 ---
 
