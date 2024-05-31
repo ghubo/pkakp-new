@@ -1,6 +1,5 @@
 ---
 title: 'Crowdfunding: Underdog Solusi Pendanaan UMKM'
-penulis: 'Sessa Tiara Maretaniandini'
 pubDate: 'Maret 29 2024'
 ---
 

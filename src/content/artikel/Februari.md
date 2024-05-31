@@ -1,6 +1,5 @@
 ---
 title: 'Harga Beras Kian Naik, Commodity Futures Contract Solusinya?'
-penulis: 'Sessa Tiara Maretaniandini'
 pubDate: 'Feb 29 2024'
 heroImage: '/Kajian_Februari.jpg'
 ---
