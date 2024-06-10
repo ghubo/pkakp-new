@@ -1,0 +1,42 @@
+---
+title: 'Inflation Targeting Framework: salah satu upaya pemerintah menahan garis inflasi'
+pubDate: 'Juni 10 2024'
+---
+ 
+Inflasi merupakan suatu kata yang sangat akrab di telinga masyarakat. Banyak orang yang mengartikan bahwa inflasi adalah kenaikan harga suatu barang, tetapi apakah persepsi tersebut sudah benar adanya? Inflasi adalah kenaikan harga barang dan jasa secara umum dan terus menerus dalam jangka waktu tertentu sehingga kenaikan harga dari satu atau dua barang saja tidak dapat disebut sebagai inflasi kecuali bila kenaikan itu meluas atau mengakibatkan kenaikan harga pada barang lainnya.
+
+Lantas, apakah inflasi itu berbahaya? Tentu saja berbahaya. Inflasi akan menurunkan kesejahteraan masyarakat terutama bagi masyarakat yang memiliki penghasilan tetap. Karena ketika terjadi inflasi, harga barang di pasar akan naik, sedangkan penghasilan masyarakat tidak berubah dan akan menyebabkan daya beli masyarakat menjadi rendah sehingga menurunkan kesejahteraan masyarakat, inflasi dapat menyebabkan distribusi pendapatan suatu negara tersebut menjadi buruk, menyebabkan tingkat suku bunga meningkat, mendorong terjadi investasi spekulatif, mengurangi nilai aset, meningkatkan ketidaksetaraan, meningkatkan biaya hidup, dan inflasi dapat menyebabkan distribusi barang tidak merata.
+
+Dampak dari inflasi sungguh sangat mengerikan sehingga perlu penangan sigap, kritis, dan responsif dalam menangani masalah ini, tetapi apakah inflasi dapat secara permanen dihilangkan dari suatu negara?. Jawabannya adalah tidak. Inflasi merupakan suatu gejala ekonomi yang tidak mungkin dihilangkan secara tuntas, tetapi terdapat banyak upaya yang dapat dilakukan untuk mengontrol atau mengendalikan inflasi agar tidak merugikan negara dan masyarakatnya.
+
+Oleh karena itu, untuk mengatasi masalah inflasi, bank sentral selaku pelaku kebijakan moneter mencoba untuk menganut sistem inflation targeting framework (ITF) sebagai upaya dalam mengontrol tingkat inflasi
+
+**Apa itu Inflation Targeting Framework?**
+
+Inflation targeting framework (ITF) merupakan suatu kerangka kebijakan moneter yang mempunya ciri-ciri utama, yaitu adanya pernyataan resmi dari bank sentral yang dikuatkan dengan undang undang bahwa tujuan akhir kebijakan moneter adalah mencapai dan menjaga tingkat inflasi yang rendah, serta pengumuman target inflasi kepada publik. Pengumuman tersebut mengundang arti bahwa bank sentral memberikan komitmen dan jaminan kepada publik bahwa setiap kebijakan moneternya selalu mengacu pada pencapaian target tersebut dan bank sentral mempertanggungjawabkan kebijakannya apabila target tersebut tidak tercapai.
+
+Mengapa Indonesia memilih penargetan inflasi dibandingkan kerangka kebijakan alternatif?. Melihat ke belakang, pihak berwenang di negara-negara telah memutuskan bahwa mencapai stabilitas harga, tingkat inflasi yang rendah dan stabil, merupakan kontribusi besar kebijakan moneter terhadap pertumbuhan ekonomi. Pengalaman praktis juga menunjukkan bahwa manipulasi kebijakan moneter jangka pendek untuk mencapai tujuan lain, seperti meningkatkan lapangan kerja atau mungkin meningkatkan output, mungkin bertentangan dengan stabilitas harga. Beberapa ekonom percaya bahwa upaya untuk mencapai beberapa tujuan ekonomi memberikan kebijakan moneter bias inflasi. Bank-bank sentral tampaknya mendapat lebih banyak kritik dari masyarakat karena menaikkan suku bunga, yang merupakan taktik anti-inflasi, dibandingkan menurunkannya, dan mereka terus menerus mendapat tekanan untuk menstimulasi kegiatan perekonomian.
+
+Oleh karena itu, dirancanglah suatu penargetan inflasi yang lebih kita kenal dengan nama inflation targeting framework, suatu kerangka yang digunakan untuk mengatasi asimetri masalah di atas dengan menjadikan inflasi, bukannya lapangan kerja, output, atau kriteria lainnya, sebagai tujuan utama kebijakan moneter. Hal tersebut juga memaksa bank sentral untuk melihat ke depan sehingga memberikan peluang untuk memperkuat kebijakan sebelum tekanan inflasi menjadi lebih kuat.
+
+**Bagaimana implementasi ITF di Indonesia?**
+
+ITF dilaksanakan dengan memperkirakan inflasi di masa depan dan membandingkannya dengan tingkat inflasi target, yaitu tingkat yang diyakini pemerintah sesuai dengan perekonomian. Perbedaan antara perkiraan dan target menentukan berapa banyak kebijakan moneter yang harus disesuaikan. Alih-alih berfokus pada pencapaian target setiap saat, ITF ini menekankan pencapaian target dalam jangka menengah, biasanya dalam jangka dua hingga tiga tahun. 
+
+ITF diimplementasikan dengan menggunakan suku bunga kebijakan sebagai sinyal kebijakan moneter dan suku bunga pasar uang antar bank untuk jangka waktu *overnight* di Indonesia - IndONIA (Indonesia *Overnight Index Average*). Bank Indonesia memperkuat penerapan kerangka ITF menjadi ***Flexible* ITF**. Flexible ITF adalah pengembangan dari kerangka kerja kebijakan moneter ITF yang dibangun dengan tetap mempertahankan elemen-elemen penting ITF. 
+
+Terkait dengan strategi penargetan inflasi (inflation targeting), Bank Indonesia mengumumkan sasaran inflasi ke depan pada periode tertentu. Sasaran inflasi ditetapkan oleh pemerintah berkoordinasi dengan bank sentral untuk tiga tahun ke depan melalui Peraturan Menteri Keuangan (PMK), dan setiap periode Bank Indonesia mengevaluasi Upaya pencapaian target tersebut dilakukan melalui respons bauran kebijakan (**policy mix**) dengan memenuhi aspek transparansi dan akuntabilitas.
+
+**Bagaimana potensi ITF di Indonesia?**
+
+Flexible inflation targeting framework (ITF) pertama kali diterapkan oleh Selandia Baru pada tahun 1990 yang digunakan sebagai upaya menciptakan dan menjaga stabilitas moneter. Sementara itu, Indonesia oleh Bank Indonesia baru menerapkan kerangka kebijakan moneter tersebut pada 1 Juli 2005. Melihat perkembangan kerangka di ITF di Indonesia, pencapaian inflasi sebagai sasaran akhir kebijakan moneter di Indonesia masih belum seperti yang diharapkan. Hal tersebut karena pada periode transisi penerapan ITF (2000-juli 2005) dan periode penerapan ITF secara formal (sejak Juli 2005), apabila membandingkan inflasi pada periode penerapan dengan periode sebelum penerapan ITF belum ada perbedaan yang berarti, rata-rata inflasi pada kedua periode tersebut berada di kisaran 8-9%.
+
+Apabila dicermati pencapaian target inflasi pada periode penerapan ITF dari tahun ke tahun dapat dilihat bahwa pencapaian inflasi aktual yang tepat berada dalam kisaran target inflasi hanya terjadi dua kali, yaitu pada tahun 2004 dan 2007. Perkembangan inflasi juga sempat mencapai level terendah 5.06% pada 2003 dan 3% pada 2009. Namun, dengan melihat potensi tekanan inflasi ke depan, tampaknya pergerakan inflasi sulit untuk mengarah pada target jangka panjang sebesar 3% dalam waktu yang segera.
+
+**Tantangan implementasi ITF di Indonesia**
+
+Tantangan kebijakan moneter dengan ITF di Indonesia semakin lama cenderung semakin berat. Berbagai tantangan mulai bermunculan berupa permasalahan yang berakar dari dinamika lingkungan strategis, dalam lingkup global yaitu pengaruh krisis keuangan dan tingginya mobilitas arus dana jangka pendek yang sangat mempengaruhi perkembangan nilai tukar, nasional yaitu fenomena ekses likuiditas dan fenomena kekuatan struktural di sisi suplai yang mengganggu bekerjanya mekanisme transmisi kebijakan dan memberikan tekanan terhadap stabilitas moneter, maupun regional yaitu peningkatan dinamika keuangan pemerintah pemerintah sejalan dengan berlangsungnya era otonomi daerah yang menyebabkan presentasi tekanan inflasi dinamis. Selain semua aspek di atas, pelaksanaan ITF memerlukan dukungan yang kuat dari berbagai lapisan baik pemerintah maupun masyarakat agar pelaksanaan kebijakan ini dapat berjalan seiringan dengan kehidupan bermasyarakat sehingga perlu untuk menciptakan dukungan tersebut terlebih dahulu.
+
+**Konklusi**
+
+Inflasi bukanlah hal yang sepele yang dapat diselesaikan hanya dengan duduk manis dan sibuk mengeluh, diperlukan usaha nyata dalam menyelesaikan masalah tersebut. Bank Indonesia sudah cukup baik dalam menangani masalah ini dengan membuat suatu kerangka ITF, tetapi tantangan dalam menjalankan kebijakan tersebut juga tidaklah ringan, semakin lama masalah yang muncul akan semakin berat dan bervariasi, sedangkan pencapaian inflasi setelah penerapan ITF masih belum menunjukkan hasil yang konkrit sehingga diperlukan manajemen nilai tukar yang tepat yang merupakan kunci bagi keberhasilan ITF di kemudian hari serta kontribusi nyata seluruh pihak baik pemerintah maupun masyarakat dalam menyelesaikan permasalahan ini.
